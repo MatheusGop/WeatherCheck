@@ -11,7 +11,7 @@ Depois de feito a clonagem do reposítorio, entre em sua pasta e instale o node_
 npm install
 ou
 yarn
-
+```
 
 ### Compiles and hot-reloads for development
 ```
@@ -22,5 +22,7 @@ npm start
 
 ### Compiles and minifies for production
 ```
+Para realizar a minificação do projeto e compilar para produção, execute o seguinte comando:
+
 npm run build
 ```
