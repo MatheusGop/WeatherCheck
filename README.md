@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-Para clonar o repositório, clique no botão verde acima onde está escrito "Clone" e copie o link, em seguida abra o CMD em seu computador e digite o seguinte comando:
+Para clonar o repositório, clique no botão verde acima onde está escrito "Code" e copie o link, em seguida abra o CMD em seu computador e digite o seguinte comando:
 
 git clone "link" (sem as aspas)
 
